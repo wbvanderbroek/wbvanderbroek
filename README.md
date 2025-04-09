@@ -1,7 +1,7 @@
 # Walter van der Broek
 
  - Currently studying at Noorderpoort
- - Fan of Unity development and game development in general
+ - Fan of Unity development and game (engine) development in general
 
 *Note that this info is only for public repositories:*
 
