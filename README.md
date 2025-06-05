@@ -2,7 +2,7 @@
 
  - Currently studying at Noorderpoort
  - Fan of Unity development and game (engine) development in general
- - Portfolio: https://waltervanderbroek.nl/
+ - Portfolio: https://portfolio.waltervanderbroek.nl/
 
 *Note that this info is only for public repositories:*
 
