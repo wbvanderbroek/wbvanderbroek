@@ -1,6 +1,6 @@
 # Walter van der Broek
 
- - Currently studying at Noorderpoort
+ - Studied Software Developer Games at Noorderpoort
  - Fan of Unity development and game (engine) development in general
  - Portfolio: https://portfolio.waltervanderbroek.nl/
 
